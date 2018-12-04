@@ -1,0 +1,12 @@
+Ashley	White	68.21	133.50	147.56	54.90
+Brad	Smith	31.56	132.80	128.86	92.73
+Lisa	Johnson	131.61	101.49	120.36	92.82
+Sheila	Robinson	67.47	128.77	55.10	99.16
+Rita	Gupta	31.01	98.37	109.42	37.76
+Ajay	Kumar	34.58	57.75	115.61	78.46
+Jose	Ramey	95.00	41.53	108.75	79.99
+Sheila	Duffy	119.43	89.92	60.85	80.68
+Tommy	Pitts	124.87	28.92	136.21	96.07
+Salma	Quade	102.69	130.24	61.68	109.11
+Jennifer	Ackerman	100.14	63.31	99.58	75.76
+Steve	Sharma	68.64	111.13	88.68	196.50
